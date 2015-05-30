@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExperimentMob Sample</string>
+    <string name="experimentmob_basepath">http://10.0.0.7:8080/experimentmob/</string>
+    <string name="experimentmob_appid">10344</string>
+
+</resources>

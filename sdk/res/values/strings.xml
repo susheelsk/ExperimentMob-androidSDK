@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AbTesting</string>
+    <string name="open_ab_test_basepath">localhost:8080/openab/</string>
+    <string name="open_ab_test_appid">1</string>
+
+</resources>
