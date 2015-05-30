@@ -1,5 +1,5 @@
 ##ExperimentMob-androidSDK##
-> This repository contains code for the android-SDK for ExperimentMob. You can use *ExperimentMob* to implement A/B Testing in your app/game. 
+> This repository contains code for the android-SDK for [ExperimentMob](http://github.com/callmesusheel/ExperimentMob). You can use *ExperimentMob* to implement A/B Testing in your app/game. 
  
  * Integrate the *ExperimentMob android-SDK* by adding it as a reference project to your android project. 
  
