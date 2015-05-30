@@ -26,8 +26,8 @@
  
   ![Example](https://raw.githubusercontent.com/callmesusheel/ExperimentMob/master/screenshots/variables_dec.png)
 	
-    Always remember to include these variables in an activity class. Also, whenever the variables are included with the  *@ExperimentMobVariable* annotation please ensure you insert the code snippet from the above step in the onCreate().
- *  To support **file synchronisation** and to perform A/B Testing over the same, please include the required files in a folder called *"abtesting"*  in the assets folder. Here you may place all your files. While reading the files, do not read the files from this location. You can get the base path to read the file in this manner : 
+    Always remember to include these variables in an activity class. Whenever the variables are included with the  *@ExperimentMobVariable* annotation please ensure you insert the code snippet from the above step in the onCreate(). Also, when such variables are declared, create the same in the fields tab of the ExpermimentMob Dashboard.
+ *  To support **file synchronisation** and to perform A/B Testing over the same, please include the required files in a folder called *"abtesting"*  in the assets folder. Again, create the same entry in the fields tab of the ExperimentMob Dashboard. Here you may place all your files. While reading the files, do not read the files from this location. You can get the base path to read the file in this manner : 
 `ExperimentMob.getABTestingFileBasePath(context)` 
 An example of such an instance would be like this
 
